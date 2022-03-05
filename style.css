@@ -25,19 +25,35 @@ button {
     cursor: pointer;
     border-radius: 10px;
     border: none;
-  }
-main {
-   background-color: #FFCA0C;
-   background-image: url("Image.png");
-   background-position:  80% bottom;
-   background-repeat: no-repeat;  
-
-}
-    
-.zdjecie {
-width: 1000px;
-height: 600px;
-left: 600px;
-top: 250px;
 }
    
+.gl {
+    background-color: #FFCA0C;
+    margin-bottom: 150px;
+    background-image: url(Image.png) ;
+    background-repeat: no-repeat; 
+    background-position:  80% bottom;
+}
+
+.tomek {
+background-color: #FFB800;
+}
+
+.how {
+    background: linear-gradient(180deg, rgba(255, 206, 103, 0.22) -42.47%, rgba(253, 237, 202, 0) 100%);
+
+}
+
+.bb {
+    position: static;
+    text-align: center;
+    top: 100px;
+
+    
+    
+    font-weight: bold;
+    font-size: 35px;
+    line-height: 112%;
+    color: #F17228;
+}
+
