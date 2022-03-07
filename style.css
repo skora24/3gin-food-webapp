@@ -117,3 +117,14 @@ background-color: #FFB800;
 #pop_items img{
     border-radius: 15px;
     }
+
+#featured h1 {
+    font-size: 43px;
+    font-weight: bold;
+    margin-bottom: 75px;
+    text-align: center;
+}
+
+#featured .dol {
+    text-align: center;
+}
